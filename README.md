@@ -1,2 +1,2 @@
 # RenderGraphics
-Main repository for 3D graphics rendering in java. 
+2D Graphics and physics engine project. 
