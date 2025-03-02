@@ -1,0 +1,5 @@
+business\concretes\CoordinateManager.class
+UI\Panel.class
+business\abstracts\CoordinateService.class
+entities\concretes\Coordinate.class
+entities\abstracts\CoordinateInterface.class

@@ -1,4 +1,4 @@
-package abstracts;
+package entities.abstracts;
 
 public interface CoordinateInterface {
 }
