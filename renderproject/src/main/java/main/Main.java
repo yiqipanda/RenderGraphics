@@ -1,6 +1,7 @@
 package main;
-import business.CoordinateManager;
-import entity.Coordinate;
+import business.concretes.CoordinateManager;
+import entities.concretes.Coordinate;
+
 
 public class Main {
     public static void main(String[] args) {
